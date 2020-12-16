@@ -1,4 +1,4 @@
-# Airplane-Game-in-Unity3d-using-Reinforcement-Learning
+# Airplane-Game-in-Unity3D
 # Introduction
 This Project is a convergence of AI and Video Games. This game is developed using Unity Game Engine along with aid from their Built in ML Agents Package. 
 In this game you race along with other AI controlled airplanes. 
